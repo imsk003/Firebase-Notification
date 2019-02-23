@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124351001647",
+    "firebase_url": "https://fir-notification-f550e.firebaseio.com",
+    "project_id": "fir-notification-f550e",
+    "storage_bucket": "fir-notification-f550e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124351001647:android:d140d8612b848ebe",
+        "android_client_info": {
+          "package_name": "sk.droidgen.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124351001647-3jj9qvck356bkhluk8s8bn8gpf5b3dsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvEO5GvWgR4IIvBI4MvObf5QEdvgGwfAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
