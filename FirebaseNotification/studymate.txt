@@ -1,0 +1,5 @@
+project desc
+
+-> permission
+-> minimum android version
+-> firebase
